@@ -4,9 +4,9 @@ Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
 ## Table of Contents
-- Use Json In Artist App: npm install -g json-server --save
-  First Step: Install module json-server:  
-  Second Step: Run cmd to url to json: json-server --watch db.json --port 3004
+- Use Json In Artist App: 
+- + First Step: Install module json-server: npm install -g json-server --save
+- + Second Step: Run cmd to url to json: json-server --watch db.json --port 3004
 - [Updating to New Releases](#updating-to-new-releases)
 - [Sending Feedback](#sending-feedback)
 - [Folder Structure](#folder-structure)
