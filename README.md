@@ -5,8 +5,8 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 ## Table of Contents
 - Use Json In Artist App: 
- + First Step: Install module json-server: npm install -g json-server --save
- + Second Step: Run cmd to url to json: json-server --watch db.json --port 3004
+  + First Step: Install module json-server: npm install -g json-server --save
+  + Second Step: Run cmd to url to json: json-server --watch db.json --port 3004
 - [Updating to New Releases](#updating-to-new-releases)
 - [Sending Feedback](#sending-feedback)
 - [Folder Structure](#folder-structure)
